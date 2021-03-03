@@ -1,5 +1,6 @@
 # components
 This is a collection of my often used code snippets for different languages and frameworks.
+Most of them are Angular, Typescript or Go components and code snippets. I use them in almost every project.
 
 ## Webdev
 - <a href="https://github.com/MathisBurger/components/blob/main/webdev/cookies.ts">Cookie handler</a>
