@@ -6,4 +6,4 @@ This is a collection of my often used code snippets for different languages and 
 
 ## Go:
 - <a href="https://github.com/MathisBurger/components/blob/main/go/token-generator">token generator</a>
-- <a href=""https://github.com/MathisBurger/components/blob/main/go/hashing">hashing with salts</a>
+- <a href="https://github.com/MathisBurger/components/blob/main/go/hashing">hashing with salts</a>
