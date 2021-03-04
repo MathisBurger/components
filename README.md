@@ -11,3 +11,6 @@ Most of them are Angular, Typescript or Go components and code snippets. I use t
 ## Go:
 - <a href="https://github.com/MathisBurger/components/blob/main/go/token-generator/TokenGenerator.go">token generator</a>
 - <a href="https://github.com/MathisBurger/components/blob/main/go/hashing/hashing.go">hashing with salts</a>
+
+## Rust
+- <a href="https://github.com/MathisBurger/components/blob/main/rust/dotenv_handler.rs">.env handler</a>
